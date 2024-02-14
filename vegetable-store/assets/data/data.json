@@ -1,0 +1,377 @@
+[
+    {
+        "name": "tomato",
+        "catogary": "Root Vegetables",
+        "img_src": "tomato.jpg",
+        "price": 60.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "mint_leaves",
+        "catogary": "Root Vegetables",
+        "img_src": "mint_leaves.jpg",
+        "price": 70.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "orange",
+        "catogary": "Root Vegetables",
+        "img_src": "orange.jpg",
+        "price": 100.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "Fresh Red Carrot",
+        "catogary": "Root Vegetables",
+        "img_src": "carrot-red.jpg",
+        "price": 60.00,
+        "quantity": "1kg"
+    }
+    ,
+    {
+        "name": "Fresh Carrot",
+        "catogary": "Root Vegetables",
+        "img_src": "carrot-orange.jpg",
+        "price": 70.00,
+        "quantity": "1kg"
+    },
+    {
+        "name": "Cauliflower",
+        "catogary": "Root Vegetables",
+        "img_src": "cauliflower.jpg",
+        "price": 100.00,
+        "quantity": "1kg"
+    },
+    {
+        "name": "Fresh Beans",
+        "catogary": "Root Vegetables",
+        "img_src": "beans.jpg",
+        "price": 40.00,
+        "quantity": "1kg"
+    },    
+    
+    {
+        "name": "pyaz",
+        "catogary": "Root Vegetables",
+        "img_src": "pyaz.jpg",
+        "price": 40.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "amaranthus",
+        "catogary": "Root Vegetables",
+        "img_src": "amaranthus.jpg",
+        "price": 60.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "amla",
+        "catogary": "Root Vegetables",
+        "img_src": "amla.jpg",
+        "price": 70.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "appleGreen",
+        "catogary": "Root Vegetables",
+        "img_src": "appleGreen.jpg",
+        "price": 100.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "appleRed",
+        "catogary": "Root Vegetables",
+        "img_src": "appleRed.jpg",
+        "price": 40.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "appleRoyal",
+        "catogary": "Root Vegetables",
+        "img_src": "appleRoyal.jpg",
+        "price": 60.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "avocade",
+        "catogary": "Root Vegetables",
+        "img_src": "avocade.jpg",
+        "price": 70.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "banana",
+        "catogary": "Root Vegetables",
+        "img_src": "banana.jpg",
+        "price": 100.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "beansBroad",
+        "catogary": "Root Vegetables",
+        "img_src": "beansBroad.jpg",
+        "price": 40.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "beetRoot",
+        "catogary": "Root Vegetables",
+        "img_src": "beetRoot.jpg",
+        "price": 60.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "bhendi",
+        "catogary": "Root Vegetables",
+        "img_src": "bhendi.jpg",
+        "price": 70.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "bottle_gourd",
+        "catogary": "Root Vegetables",
+        "img_src": "bottle_gourd.jpg",
+        "price": 100.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "broccoli",
+        "catogary": "Root Vegetables",
+        "img_src": "broccoli.jpg",
+        "price": 40.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "cabbage",
+        "catogary": "Root Vegetables",
+        "img_src": "cabbage.jpg",
+        "price": 60.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "coconut-water",
+        "catogary": "Root Vegetables",
+        "img_src": "coconut-water.jpg",
+        "price": 70.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "coriander",
+        "catogary": "Root Vegetables",
+        "img_src": "coriander.jpg",
+        "price": 100.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "corn",
+        "catogary": "Root Vegetables",
+        "img_src": "corn.jpg",
+        "price": 40.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "cucumber",
+        "catogary": "Root Vegetables",
+        "img_src": "cucumber.jpg",
+        "price": 60.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "Curry_patta",
+        "catogary": "Root Vegetables",
+        "img_src": "Curry_patta.jpg",
+        "price": 70.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "dragonFruit",
+        "catogary": "Root Vegetables",
+        "img_src": "dragonFruit.jpg",
+        "price": 100.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "freshSpinach",
+        "catogary": "Root Vegetables",
+        "img_src": "freshSpinach.jpg",
+        "price": 40.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "garlic",
+        "catogary": "Root Vegetables",
+        "img_src": "garlic.jpg",
+        "price": 60.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "ginger",
+        "catogary": "Root Vegetables",
+        "img_src": "ginger.jpg",
+        "price": 70.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "gongura",
+        "catogary": "Root Vegetables",
+        "img_src": "gongura.jpg",
+        "price": 100.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "grapesRed",
+        "catogary": "Root Vegetables",
+        "img_src": "grapesRed.jpg",
+        "price": 40.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "grapesSonaka",
+        "catogary": "Root Vegetables",
+        "img_src": "grapesSonaka.jpg",
+        "price": 60.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "greenChilli",
+        "catogary": "Root Vegetables",
+        "img_src": "greenChilli.jpg",
+        "price": 70.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "kiwiGreen",
+        "catogary": "Root Vegetables",
+        "img_src": "kiwiGreen.jpg",
+        "price": 100.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "lemon",
+        "catogary": "Root Vegetables",
+        "img_src": "lemon.jpg",
+        "price": 40.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "lettuce",
+        "catogary": "Root Vegetables",
+        "img_src": "lettuce.jpg",
+        "price": 60.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "matar-peas-green",
+        "catogary": "Root Vegetables",
+        "img_src": "matar-peas-green.jpg",
+        "price": 70.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "methi",
+        "catogary": "Root Vegetables",
+        "img_src": "methi.jpg",
+        "price": 100.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "mint_leaves",
+        "catogary": "Root Vegetables",
+        "img_src": "mint_leaves.jpg",
+        "price": 40.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "mosambi",
+        "catogary": "Root Vegetables",
+        "img_src": "mosambi.jpg",
+        "price": 40.00,
+        "quantity": "1kg",
+        "properCashText": "Proper cash"
+    },
+    {
+        "name": "Mushroom",
+        "catogary": "Root Vegetables",
+        "img_src": "mushroo.jpg",
+        "price": 70.00,
+        "quantity": "1kg"
+    },
+    {
+        "name": "Pear Green",
+        "catogary": "Root Vegetables",
+        "img_src": "pearGreen.jpg",
+        "price": 100.00,
+        "quantity": "1kg"
+    },
+    {
+        "name": "Pine Apple",
+        "catogary": "Root Vegetables",
+        "img_src": "pineapple.jpg",
+        "price": 40.00,
+        "quantity": "1kg"
+    },
+    {
+        "name": "pomegranate",
+        "catogary": "Root Vegetables",
+        "img_src": "pomegranate.jpg",
+        "price": 60.00,
+        "quantity": "1kg"
+    },
+    {
+        "name": "Aloo",
+        "catogary": "Root Vegetables",
+        "img_src": "potato.jpg",
+        "price": 70.00,
+        "quantity": "1kg"
+    },
+    {
+        "name": "Sarso Sag",
+        "catogary": "Root Vegetables",
+        "img_src": "sarso-leaves.jpg",
+        "price": 100.00,
+        "quantity": "1kg"
+    },
+    {
+        "name": "Pyaz",
+        "catogary": "Root Vegetables",
+        "img_src": "pyaz.jpg",
+        "price": 40.00,
+        "quantity": "1kg"
+    }
+]
